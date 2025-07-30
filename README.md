@@ -44,11 +44,3 @@ Turn your smartwatch into a **wireless mouse**, **gesture controller**, and **mo
 1. Clone or download the repo.
 2. Open in **Android Studio** (for Wear OS).
 3. Build & install the app on your smartwatch.
-
-### Host App
-
-1. Install Python and dependencies:
-
-```bash
-pip install -r requirements.txt
-```
